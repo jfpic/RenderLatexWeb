@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  Renders LaTeX formulas using KaTeX on NotebookLM (including math in parentheses)
-// @author       ergs0204
+// @author       jfpic
 // @match        https://notebooklm.google.com/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js
